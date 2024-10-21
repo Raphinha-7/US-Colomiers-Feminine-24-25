@@ -1,1 +1,12 @@
-
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <h2>Navigation</h2>
+    <ul>
+        <li><a href="OL/USC.md">OL/USC</a></li>
+    </ul>
+</body>
+</html>
