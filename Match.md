@@ -2,13 +2,10 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <title>Teste</title>
 </head>
 <body>
-    <h2>Navigation</h2>
-    <ul>
-        <li><a href="OLUSC.md">OL/USC</a></li>
-    </ul>
+    <h1>Bonjour le monde</h1>
 </body>
 </html>
+v
