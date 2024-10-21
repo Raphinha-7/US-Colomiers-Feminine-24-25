@@ -6,7 +6,7 @@
 <body>
     <h2>Navigation</h2>
     <ul>
-        <li><a href="OL/USC.md">OL/USC</a></li>
+        <li><a href="OLUSC.md">OL/USC</a></li>
     </ul>
 </body>
 </html>
